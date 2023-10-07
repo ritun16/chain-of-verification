@@ -36,7 +36,9 @@ python3 main.py --question "Who are some politicians born in Boston?" --llm-name
 
 # Few ways to improve
 This implementation provides a comprehensive guide for you to modify according to your need and use case. Although below are some of the ideas you can employ to make it more robust and effective.
-1. **Prompt Engineering**: 
+1. **Prompt Engineering**: One of the major ways to improve performances of any LLM powered applications is through prompt engineering and prompt optimizations. You can check all the prompts used in the [prompts.py](https://github.com/ritun16/chain-of-verification/blob/b30cc401eece51ea59e81765077bb0481cc5747b/src/prompts.py#L1) file. Try your own prompt engineering and experiment in your use case.
+2. **External Tools**: As the final output highly depends on the answers of the verification questions, based on different use cases you can try out different tools. For factual questions & answering you can use advanced search tools like google search or serp API etc. For custom use cases you can always use RAG methods or other retrieval techniques for answering the verification questions.
+3. **More Chains**: I have implemented three chains according to the three question types (Wiki Data, Mutli-Span QA & Long-Form QA) the authors have used for their research. Depending on your use case you can create other chains which can handle other types of QA methods to increase the variabilty.
 
 ❤️ If this repository helps, please star ⭐, and share ✔️! <br>
 If you also found the [article](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others. <br>
