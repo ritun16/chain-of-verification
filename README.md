@@ -57,6 +57,6 @@ The output JSON comprises:
 
 # Few ways to improve
 
-❤️ If this repository helps, please star ⭐, and share ✔️!
-If you also found the [article](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others.
+❤️ If this repository helps, please star ⭐, and share ✔️! <br>
+If you also found the [article](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others. <br>
 Happy coding!
