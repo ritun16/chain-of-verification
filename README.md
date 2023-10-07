@@ -1,5 +1,5 @@
 # ⛓ chain-of-verification 💡
-A comprehensive guide and codebase for text summarization harnessing the capabilities of Large Language Models (LLMs). Delve deep into techniques, from chunking to clustering, and maximize the potential of LLMs like GPT-3.5 and GPT-4.
+How Chain-of-Verification (CoVe) works and how to implement it using Python 🐍 + Langchain 🔗 + OpenAI 🦾 + Search Tool 🔍
 
 📄 **Article**: [I highly recommend reading this article before diving into the code.](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5)
 
@@ -55,7 +55,6 @@ The output JSON comprises:
 - `keywords`: important keywords and phrases
 - `metadata`: Provides total time (in seconds) taken to execute your summary, total cost (in USD) for openai, and total token counts in the whole process
 
-❤️ If this repository helps, please star, and share! Happy coding!
-
-
 # Few ways to improve
+
+❤️ If this repository helps, please star ⭐, and share ✔️! If you also found the [article](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others.Happy coding!
