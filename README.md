@@ -1,7 +1,7 @@
 # ⛓ chain-of-verification 💡
 How Chain-of-Verification (CoVe) works and how to implement it using Python 🐍 + Langchain 🔗 + OpenAI 🦾 + Search Tool 🔍
 
-📄 **Article**: [I highly recommend reading this article before diving into the code.](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5)
+📄 **Article**: [I highly recommend reading this article before diving into the code.](https://sourajit16-02-93.medium.com/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5)
 
 ## Architecture
 ![CoVe_Architecture](https://github.com/ritun16/chain-of-verification/assets/44939374/3efc0f5a-b7c6-4655-8a0e-e16c01cac97e)
@@ -42,5 +42,5 @@ This implementation provides a comprehensive guide for you to modify according t
 4. **Human In Loop (HIL)**: HIL is one of the important steps in many LLM powered applications. In your specific applications, the whole pipeline can be designed to incorporate HIL either for generating proper verification questions or answering verification questions to further improve the overall CoVe pipeline.
 
 ❤️ If this repository helps, please star ⭐, and share ✔️! <br>
-If you also found the [article](https://medium.com/@sourajit16-02-93/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others. <br>
+If you also found the [article](https://sourajit16-02-93.medium.com/chain-of-verification-cove-understanding-implementation-e7338c7f4cb5) informative and think it could be beneficial to others, I'd be grateful if you could like 👍, follow 👉, and share✔️ the piece with others. <br>
 Happy coding!
